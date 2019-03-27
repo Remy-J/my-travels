@@ -16,7 +16,7 @@ const travels = [
        distance: "4 713 km"
     },
     {
-        destination: "Petra",
+        destination: "Budva",
         country:"Montenegro",
         photo: "https://www.valizstoriz.com/wp-content/uploads/2018/01/pays-a-visiter-en-2018-MONTENEGRO.jpg",
         distance: "2 051 km"
