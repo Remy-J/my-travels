@@ -14,7 +14,7 @@ const Travel = (props) => (
       <cite>
       {props.distance}
       <p>
-          Voici la ville de {props.destination}
+          This is the city of {props.destination}
       </p>
       </cite>
     </figcaption>
